@@ -35,7 +35,7 @@ a:focus {
 
 .tm-text-white { color: #fff; }
 
-.tm-page-1-content { 
+.tm-page-1-content {
 	padding-top: 1vh;
 	align-items: center;
 }
@@ -44,12 +44,12 @@ a:focus {
 	max-width: 800px;
 }
 
-.tm-page-4-content { 
-	padding-top: 1vh;	
+.tm-page-4-content {
+	padding-top: 1vh;
 }
 
-.tm-page-5-content { 
-	padding-top: 1vh;	
+.tm-page-5-content {
+	padding-top: 1vh;
 }
 
 .tm-bg-white {
@@ -101,11 +101,11 @@ h5 {
 
 .tm-bg-white-transparent-page3 {
 	margin-left: 100px;
-	
+
 }
 
 .tm-page-5-content {
-	float: right;	
+	float: right;
 }
 
 .container {
@@ -206,7 +206,7 @@ h5 {
 }
 
 .footer {
-	padding: 15px; 
+	padding: 15px;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -222,7 +222,7 @@ h5 {
 	padding-right: 60px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #C66666;
+	background-color: transparent;
 	border-color: #C66666;
 }
 
@@ -265,7 +265,7 @@ h5 {
 	.tm-address-box {
 		margin-bottom: 50px;
 	}
-	.tm-page-4-content { 
+	.tm-page-4-content {
 		margin-bottom: 50px;
 	}
 }
