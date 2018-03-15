@@ -42,6 +42,14 @@ a:focus {
 	align-items: center;
 }
 
+.parallax-window2 {
+	min-height: 50vh;
+	background: transparent;
+	display: flex;
+	align-items: center;
+}
+
+
 .tm-text-white { color: #fff; }
 
 .tm-page-1-content {
