@@ -43,8 +43,8 @@ a:focus {
 }
 
 .parallax-window2 {
-	min-height: 50vh;
-	background: transparent;
+	min-height: 70vh;
+	background: #000000;
 	display: flex;
 	align-items: center;
 }
