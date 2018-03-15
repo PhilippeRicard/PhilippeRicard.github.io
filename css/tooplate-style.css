@@ -27,7 +27,7 @@ a, button {
 }
 
 a:hover {
-	color: #FFFF00;
+	color: #dc3545;
 	text-decoration: underline;
 }
 a:focus {
