@@ -27,12 +27,13 @@ a, button {
 }
 
 a:hover {
-	color: #dc3545;
+	color: #dc3545 ;
 	text-decoration: underline;
 }
 a:focus {
 	text-decoration: none;
 	outline: none;
+	color: #dc3545;
 }
 .parallax-window {
 	min-height: 100vh;
