@@ -255,8 +255,7 @@ h5 {
 
 
 .trippant{
-	padding-left: 39%;
-	text-align:center;
+	margin: auto;
 }
 
 @media screen and (max-width: 991px) {
